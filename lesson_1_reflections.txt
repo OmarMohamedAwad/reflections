@@ -16,6 +16,7 @@ docs does?
     - i save the importent change . 
     - if i want what i maked last time it is easily .
     - if i want remove some change it is easy.
+    - if i modfie some thing it ease to know what is 
 
     cons :
     - if we not use correctly it make recovary and search diffecult.
